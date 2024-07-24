@@ -3,4 +3,4 @@
 
 I am an undergraduate student at CUNY Hunter College '25 pursuing a Bachelor's in Computer Science. I am also a US Air Force Reservist working in Supply at the 914th Logisitics Readiness Squardon. I am seeking entry level cybersecurity positions!
 
-<a href="<a href="https://linkedin.com/in/rey-reyes/"> My Resume! </a>
+<a href="https://linkedin.com/in/rey-reyes/"> My Resume! </a>
