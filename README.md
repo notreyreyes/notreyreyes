@@ -1,5 +1,5 @@
 ## Hi There, I'm Rey 🫡 <br> 
-My name is Rey Reyes and I am an undergraduate student at CUNY Hunter College '25 pursuing a Bachelor's in Computer Science. I am also a US Air Force Reservist. I am an asipiring **software engineer/data analyst** 👨‍💻
+My name is Rey Reyes and I am an undergraduate student at CUNY Hunter College '25 pursuing a Bachelor's in Computer Science. I am also a US Air Force Reservist. I am an aspiring **software engineer/data analyst** 👨‍💻
 
 <a href="https://drive.google.com/file/d/153ymHXcFOFqn3EtWX4dgSfT935S0_Moa/view?usp=sharing"> My Resume! </a>
 
